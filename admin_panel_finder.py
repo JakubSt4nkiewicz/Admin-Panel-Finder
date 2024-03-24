@@ -2,7 +2,7 @@
 import requests
 import socket
 from urllib.parse import urlparse
-
+ 
 # Wyświetlanie powitalnego baneru dla użytkownika
 print(
     """
